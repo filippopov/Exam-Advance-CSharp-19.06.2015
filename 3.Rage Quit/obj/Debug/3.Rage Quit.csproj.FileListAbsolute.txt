@@ -1,0 +1,6 @@
+C:\Users\Filip\documents\visual studio 2015\Projects\Advance CSharp Exam 19.06.2015\3.Rage Quit\bin\Debug\3.Rage Quit.exe.config
+C:\Users\Filip\documents\visual studio 2015\Projects\Advance CSharp Exam 19.06.2015\3.Rage Quit\bin\Debug\3.Rage Quit.exe
+C:\Users\Filip\documents\visual studio 2015\Projects\Advance CSharp Exam 19.06.2015\3.Rage Quit\bin\Debug\3.Rage Quit.pdb
+C:\Users\Filip\documents\visual studio 2015\Projects\Advance CSharp Exam 19.06.2015\3.Rage Quit\obj\Debug\3.Rage Quit.csprojResolveAssemblyReference.cache
+C:\Users\Filip\documents\visual studio 2015\Projects\Advance CSharp Exam 19.06.2015\3.Rage Quit\obj\Debug\3.Rage Quit.exe
+C:\Users\Filip\documents\visual studio 2015\Projects\Advance CSharp Exam 19.06.2015\3.Rage Quit\obj\Debug\3.Rage Quit.pdb

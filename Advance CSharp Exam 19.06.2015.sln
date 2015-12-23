@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Bunker Buster", "1.Bunker Buster\1.Bunker Buster.csproj", "{BC5E16E7-CF00-4C92-855E-BCC414032818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Population Counter", "4.Population Counter\4.Population Counter.csproj", "{CAFB8270-1C76-48F7-B8E9-0AF2F045B368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Rage Quit", "3.Rage Quit\3.Rage Quit.csproj", "{1FB508D8-CF21-4B55-8A03-71D515F7C6D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Array Slider", "2.Array Slider\2.Array Slider.csproj", "{FCCBF3FA-ECF2-4878-A934-0335D605A73B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC5E16E7-CF00-4C92-855E-BCC414032818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5E16E7-CF00-4C92-855E-BCC414032818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5E16E7-CF00-4C92-855E-BCC414032818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5E16E7-CF00-4C92-855E-BCC414032818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAFB8270-1C76-48F7-B8E9-0AF2F045B368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFB8270-1C76-48F7-B8E9-0AF2F045B368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFB8270-1C76-48F7-B8E9-0AF2F045B368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFB8270-1C76-48F7-B8E9-0AF2F045B368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB508D8-CF21-4B55-8A03-71D515F7C6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB508D8-CF21-4B55-8A03-71D515F7C6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB508D8-CF21-4B55-8A03-71D515F7C6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB508D8-CF21-4B55-8A03-71D515F7C6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCCBF3FA-ECF2-4878-A934-0335D605A73B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCBF3FA-ECF2-4878-A934-0335D605A73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCBF3FA-ECF2-4878-A934-0335D605A73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCBF3FA-ECF2-4878-A934-0335D605A73B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

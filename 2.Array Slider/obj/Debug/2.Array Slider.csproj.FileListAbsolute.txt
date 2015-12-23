@@ -1,0 +1,6 @@
+C:\Users\Filip\documents\visual studio 2015\Projects\Advance CSharp Exam 19.06.2015\2.Array Slider\bin\Debug\2.Array Slider.exe.config
+C:\Users\Filip\documents\visual studio 2015\Projects\Advance CSharp Exam 19.06.2015\2.Array Slider\bin\Debug\2.Array Slider.exe
+C:\Users\Filip\documents\visual studio 2015\Projects\Advance CSharp Exam 19.06.2015\2.Array Slider\bin\Debug\2.Array Slider.pdb
+C:\Users\Filip\documents\visual studio 2015\Projects\Advance CSharp Exam 19.06.2015\2.Array Slider\obj\Debug\2.Array Slider.csprojResolveAssemblyReference.cache
+C:\Users\Filip\documents\visual studio 2015\Projects\Advance CSharp Exam 19.06.2015\2.Array Slider\obj\Debug\2.Array Slider.exe
+C:\Users\Filip\documents\visual studio 2015\Projects\Advance CSharp Exam 19.06.2015\2.Array Slider\obj\Debug\2.Array Slider.pdb

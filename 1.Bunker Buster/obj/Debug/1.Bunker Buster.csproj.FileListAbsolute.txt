@@ -1,0 +1,6 @@
+c:\users\filip\documents\visual studio 2015\Projects\Advance CSharp Exam 19.06.2015\1.Bunker Buster\bin\Debug\1.Bunker Buster.exe.config
+c:\users\filip\documents\visual studio 2015\Projects\Advance CSharp Exam 19.06.2015\1.Bunker Buster\bin\Debug\1.Bunker Buster.exe
+c:\users\filip\documents\visual studio 2015\Projects\Advance CSharp Exam 19.06.2015\1.Bunker Buster\bin\Debug\1.Bunker Buster.pdb
+c:\users\filip\documents\visual studio 2015\Projects\Advance CSharp Exam 19.06.2015\1.Bunker Buster\obj\Debug\1.Bunker Buster.csprojResolveAssemblyReference.cache
+c:\users\filip\documents\visual studio 2015\Projects\Advance CSharp Exam 19.06.2015\1.Bunker Buster\obj\Debug\1.Bunker Buster.exe
+c:\users\filip\documents\visual studio 2015\Projects\Advance CSharp Exam 19.06.2015\1.Bunker Buster\obj\Debug\1.Bunker Buster.pdb
